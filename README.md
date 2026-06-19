@@ -1,1 +1,1 @@
-# EgorArtemevCalculator.github.io
+EgorArtemev.github.io
